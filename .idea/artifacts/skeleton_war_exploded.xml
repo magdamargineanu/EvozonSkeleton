@@ -14,12 +14,20 @@
           <element id="module-output" name="skeleton" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.9" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.9" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.9" />
+          <element id="library" level="project" name="Maven: org.glassfish.web:jakarta.servlet.jsp.jstl:2.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:2.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.el:jakarta.el-api:4.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.0" />
+          <element id="library" level="project" name="Maven: com.sun.activation:jakarta.activation:2.0.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.9" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.9" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.9" />
         </element>
       </element>
       <element id="directory" name="META-INF">
